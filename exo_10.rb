@@ -7,5 +7,5 @@ years = 2022
 sum = years - date + 1
 
 sum.times do |i|
-    puts "en  #{date + i  }. Tu avais #{i} ans"
+    puts "en  #{date + i}. Tu avais #{i} ans"
 end
