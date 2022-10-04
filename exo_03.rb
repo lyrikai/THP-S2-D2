@@ -4,4 +4,4 @@ age = gets.chomp.to_i
 
 date = 2017
 
-puts "en 2017 tu avais #{ date - age }"
+puts "en 2017 tu avais #{ date - age } ans"
