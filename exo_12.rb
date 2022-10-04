@@ -6,7 +6,7 @@ date.times do |i|
 
     if date - i  === i 
         puts "Il y a #{i} ans, tu avais la moitié de l'âge que tu as aujourd'hui"
-    end
-
+    else
     puts "il y a #{date - i }  an. Tu avais #{i} ans"
+    end
 end
