@@ -4,7 +4,7 @@ print ">"
 number = gets.chomp.to_i
 
 diese = "#"
-space = "o"
+space = " "
 
 if number <= 25 
     number.times do |i|
